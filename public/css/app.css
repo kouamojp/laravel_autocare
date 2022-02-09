@@ -1,0 +1,19 @@
+table tfoot {
+  display: none!important;
+}
+
+
+.nav-link:hover {
+  background: #df4759 !important;
+}
+
+.btn-primary, .dataTables_wrapper .dataTables_paginate .paginate_button.current {
+  color: #fff;
+  background-color: #df4759;
+  border-color: #df4759;
+}
+
+.btn-primary:hover{
+  background-color: #cf2438;
+  border-color: #cf2438;
+}
